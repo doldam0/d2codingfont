@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/6773678/33355628-997fe52e-d4fb-11e7-9d1a-64c3b2d42de8.png)
       - 다양한 OS 및 개발도구 지원 : window, mac, linux(ubuntu) 환경에서 다양한 개발도구에서도 사용하실 수 있습니다.
 ![image](https://user-images.githubusercontent.com/6773678/33353005-fac0c8ec-d4ee-11e7-8e51-3077c1771144.png)
-	- @doldam0 D2Coding의 Nerd Font 버전입니다. [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)	
+   - @doldam0 D2Coding의 Nerd Font 버전입니다. [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)	
 
 ## 글꼴 소개
 D2 Coding 글꼴은 나눔바른고딕을 바탕으로 개발자의 코딩을 위해 가독성 및 유사 문자간 변별력 뿐만 아니라 디자인적으로 한글과의 조화를 고려해 최적화시킨 글꼴입니다. D2 Coding 글꼴은 코딩시 유사한 형태의 영문/숫자 뿐만 아니라 한글/특수문자 등에 대한 변별력과 가독성을 강화하였습니다.  또한 고정폭 글꼴로 제작이 되어 어떤 개발환경에서도 자간과 행간을 유지하도록 디자인되어 있습니다.

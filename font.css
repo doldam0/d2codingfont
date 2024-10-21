@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "D2Coding Ligature Nerd";
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://github.com/doldam0/d2codingfont/raw/refs/heads/master/D2Coding%20ligature%20Nerd%20Font%20Complete.ttf') format('truetype');
+  font-variant-ligatures: none;
+}
+@font-face {
+  font-family: "D2Coding Ligature Nerd";
+  font-style: bold;
+  font-weight: 700;
+  src: url('https://github.com/doldam0/d2codingfont/raw/refs/heads/master/D2Coding%20ligature%20Bold%20Nerd%20Font%20Complete.ttf') format('truetype');
+  font-variant-ligatures: none;
+}
